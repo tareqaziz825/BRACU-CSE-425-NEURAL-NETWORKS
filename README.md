@@ -471,10 +471,6 @@ Department of Computer Science and Engineering
 BRAC University  
 📧 Email: mostakim@bracu.ac.bd
 
-I express my sincere gratitude to **Moin Mostakim** for his invaluable guidance, insightful feedback, and continuous support throughout this research project. His expertise in neural networks and unsupervised learning methodologies significantly shaped the direction and quality of this work.
-
-Special thanks to BRAC University for providing the computational resources and academic environment necessary for conducting this research.
-
 ## 📚 References
 
 1. **Kingma, D. P., & Welling, M.** (2013). "Auto-Encoding Variational Bayes." *arXiv:1312.6114*.  
@@ -510,7 +506,4 @@ Special thanks to BRAC University for providing the computational resources and 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Note**: This research was conducted as part of the CSE 425: Neural Networks course at BRAC University. The findings contribute to understanding the trade-offs between deterministic and stochastic approaches in unsupervised clustering tasks.
-
 **Keywords**: Unsupervised Learning, Variational Autoencoders, Clustering, K-Means, Gaussian Mixture Models, Self-Organizing Maps, Uncertainty Quantification, Stability Analysis, Wine Dataset, Neural Networks
