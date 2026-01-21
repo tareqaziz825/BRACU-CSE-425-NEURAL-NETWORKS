@@ -1,4 +1,4 @@
-# BRACU-CSE425-Non-Deterministic-Unsupervised-Neural-Network-Model
+# BRACU-CSE-425-NEURAL-NETWORKS
 Implementation of a non-deterministic unsupervised neural network model for clustering.
 
 
