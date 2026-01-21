@@ -1,6 +1,12 @@
 # BRACU-CSE-425-NEURAL-NETWORKS
 Implementation of a non-deterministic unsupervised neural network model for clustering.
 
+## Acknowledgements & Supervision
+* **Instructor: Moin Mostakim**
+    * Senior Lecturer, Department of Computer Science and Engineering
+    * BRAC University
+    * Email: mostakim@bracu.ac.bd
+
 
 Wine Dataset Clustering with PyTorch and Scikit-Learn
 --------
